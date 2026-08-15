@@ -1,3 +1,3 @@
 #!/bin/bash
 
-echo "OS Lab Report"
+echo "ShellScript"
